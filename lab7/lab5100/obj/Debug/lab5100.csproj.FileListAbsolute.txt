@@ -1,0 +1,14 @@
+C:\Users\ByTech\source\repos\lab5100\lab5100\bin\Debug\lab5100.exe.config
+C:\Users\ByTech\source\repos\lab5100\lab5100\bin\Debug\lab5100.exe
+C:\Users\ByTech\source\repos\lab5100\lab5100\bin\Debug\lab5100.pdb
+C:\Users\ByTech\source\repos\lab5100\lab5100\obj\Debug\lab5100.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\lab5100\lab5100\obj\Debug\lab5100.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\lab5100\lab5100\obj\Debug\lab5100.exe
+C:\Users\ByTech\source\repos\lab5100\lab5100\obj\Debug\lab5100.pdb
+C:\Users\ByTech\source\repos\lab7\lab5100\bin\Debug\lab5100.exe.config
+C:\Users\ByTech\source\repos\lab7\lab5100\bin\Debug\lab5100.exe
+C:\Users\ByTech\source\repos\lab7\lab5100\bin\Debug\lab5100.pdb
+C:\Users\ByTech\source\repos\lab7\lab5100\obj\Debug\lab5100.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\lab7\lab5100\obj\Debug\lab5100.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\lab7\lab5100\obj\Debug\lab5100.exe
+C:\Users\ByTech\source\repos\lab7\lab5100\obj\Debug\lab5100.pdb
